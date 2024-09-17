@@ -1,1 +1,1 @@
-Interior website using Tailwind CSS
+Interior website using NextJS + Tailwind CSS
