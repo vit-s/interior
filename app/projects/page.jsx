@@ -28,7 +28,7 @@ const page = () => {
   return (
     <div>
       <div className={`bg-[url('/image/backgroundproject.jpg')] bg-center bg-cover`}>
-        <h1 className={`container mx-auto py-64 text-6xl font-semibold tracking-widest`}>
+        <h1 className={`container mx-auto py-64 text-6xl font-semibold tracking-widest text-white`}>
           Our Projects
         </h1>
       </div>
