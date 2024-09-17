@@ -11,7 +11,7 @@ import { desVariants, tagVariants, titleVariants } from "../utils/animation"
 const CatalogSwiperSection = () => {
   return (
     <div className={`py-8 lg:py-28`}>
-      <div className={`container mx-auto grid pb-8 lg:grid-cols-1`}>
+      <div className={`container mx-auto grid p-8 lg:grid-cols-1`}>
         <div className={`text-left`}>
           <motion.h1
             initial={'offscreen'}
